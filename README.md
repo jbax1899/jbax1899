@@ -13,6 +13,10 @@ I'm currently building **A.R.E.T.E.** — a self-hostable AI assistant designed 
   Self-hostable AI assistant focused on clarity, traceability, and ethical introspection.  
   _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker
 
+- **[A-Simple-Chess-Interface](https://github.com/jbax1899/A-Simple-Chess-Interface)**  
+  Minimal chess frontend built in plain JavaScript, integrated with Stockfish.js.  
+  _Stack:_ HTML/CSS, JavaScript
+
 - **[Photomosaic](https://github.com/jbax1899/photomosaic)**  
   Image-to-mosaic converter with clean visuals and a straightforward WinForms UI.  
   _Stack:_ C#
@@ -20,10 +24,6 @@ I'm currently building **A.R.E.T.E.** — a self-hostable AI assistant designed 
 - **[DiscordChatAnalyzer](https://github.com/jbax1899/DiscordChatAnalyzer)**  
   Tool for analyzing Discord logs and metadata at scale. Built for reliability in offline batch processing.  
   _Stack:_ C++
-
-- **[A-Simple-Chess-Interface](https://github.com/jbax1899/A-Simple-Chess-Interface)**  
-  Minimal chess frontend built in plain JavaScript, integrated with Stockfish.js.  
-  _Stack:_ HTML/CSS, JavaScript
 
 ---
 
