@@ -25,14 +25,6 @@ I'm Jordan, a junior full-stack developer. Hello!
 
 ---
 
-### Focus Areas
-
-- Building full-stack web apps with JavaScript and TypeScript
-- Writing clear documentation and setup instructions for others
-- Keeping projects small, working, and easy to run or explore
-
----
-
 ### Teaching
 
 I work as a Supplemental Instructor for my alma mater, helping students grasp core programming concepts (Intro Java). It’s paid, structured peer instruction.
