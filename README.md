@@ -32,7 +32,6 @@ I'm currently building **A.R.E.T.E.** — a self-hostable AI assistant designed 
 - Building full-stack web apps with JavaScript and TypeScript
 - Writing clear documentation and setup instructions for others
 - Keeping projects small, working, and easy to run or explore
-- Learning backend patterns (APIs, tokens, hosting)
 
 ---
 
