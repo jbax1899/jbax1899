@@ -1,7 +1,5 @@
 I'm Jordan, a junior full-stack developer. Hello!
 
-I'm currently building **A.R.E.T.E.** — a self-hostable AI assistant designed for clarity, traceability, and ethical introspection.
-
 [Personal site](https://www.jordanmakes.dev)  
 [Blog](https://blog.jordanmakes.dev)
 
