@@ -22,7 +22,7 @@ I'm currently building **A.R.E.T.E.** — a self-hostable AI assistant designed 
   _Stack:_ C#
 
 - **[DiscordChatAnalyzer](https://github.com/jbax1899/DiscordChatAnalyzer)**  
-  Tool for analyzing Discord logs and metadata at scale.
+  Tool for analyzing Discord logs and metadata at scale.  
   _Stack:_ C++
 
 ---
