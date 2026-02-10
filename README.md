@@ -11,9 +11,9 @@ I'm Jordan, a junior full-stack developer. Hello!
   Self-hostable AI assistant focused on clarity, traceability, and ethical introspection.  
   _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker
 
-- **[A-Simple-Chess-Interface](https://github.com/jbax1899/A-Simple-Chess-Interface)**  
-  Minimal chess frontend built in plain JavaScript, integrated with Stockfish.js.  
-  _Stack:_ HTML/CSS, JavaScript
+- **[cdp-richmond-indiana](https://github.com/jbax1899/cdp-richmond-indiana)**  
+  Browse recent Richmond and Wayne County public meetings, with video playback and auto-generated transcripts.  
+  Stack: Python, React, Google Cloud (Firebase: Firestore + Storage), Council Data Project
 
 - **[Photomosaic](https://github.com/jbax1899/photomosaic)**  
   Image-to-mosaic converter with clean visuals and a straightforward WinForms UI.  
