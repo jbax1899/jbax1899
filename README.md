@@ -9,15 +9,17 @@ I'm Jordan, a junior full-stack developer. Hello!
 
 - **[A.R.E.T.E.](https://github.com/arete-org/arete)**  
   Self-hostable AI assistant focused on clarity, traceability, and ethical introspection.  
-  _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker
+  _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker  
+  [ai.jordanmakes.dev](https://ai.jordanmakes.dev)
 
 - **[cdp-richmond-indiana](https://github.com/jbax1899/cdp-richmond-indiana)**  
   Browse recent Richmond and Wayne County public meetings, with video playback and auto-generated transcripts.  
-  Stack: Python, React, Google Cloud (Firebase: Firestore + Storage), Council Data Project
+  Stack: Python, React, Google Cloud (Firebase: Firestore + Storage), Council Data Project  
+  [richmondmeetings.jordanmakes.dev](https://richmondmeetings.jordanmakes.dev)
 
 - **[Photomosaic](https://github.com/jbax1899/photomosaic)**  
   Image-to-mosaic converter with clean visuals and a straightforward WinForms UI.  
-  _Stack:_ C#
+  _Stack:_ C#, Windows Forms
 
 - **[DiscordChatAnalyzer](https://github.com/jbax1899/DiscordChatAnalyzer)**  
   Tool for analyzing Discord logs and metadata at scale.  
