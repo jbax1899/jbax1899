@@ -7,7 +7,7 @@ I'm Jordan, a junior full-stack developer. Hello!
 
 ### Featured Projects
 
-- **[A.R.E.T.E.](https://github.com/arete-org/arete)**  
+- **[Footnote](https://github.com/footnote-ai/footnote)**  
   Self-hostable AI assistant focused on clarity, traceability, and ethical introspection.  
   _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker  
   [ai.jordanmakes.dev](https://ai.jordanmakes.dev)
