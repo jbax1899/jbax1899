@@ -1,43 +1,49 @@
-I'm Jordan, a junior full-stack developer. Hello!
+## Hi, I'm Jordan
 
-[Personal site](https://www.jordanmakes.dev)  
-[Blog](https://blog.jordanmakes.dev)
+Full-stack developer based in Indiana. I work mostly in TypeScript but I've built things in Java, Python, C#, and C++ too. I like projects where there's a real problem to solve and a real person at the other end of it.
 
----
-
-### Featured Projects
-
-- **[Footnote](https://github.com/footnote-ai/footnote)**  
-  Self-hostable AI assistant focused on clarity, traceability, and ethical introspection.  
-  _Stack:_ TypeScript, Node.js, Discord.js, OpenAI API, Docker  
-  [ai.jordanmakes.dev](https://ai.jordanmakes.dev)
-
-- **[cdp-richmond-indiana](https://github.com/jbax1899/cdp-richmond-indiana)**  
-  Browse recent Richmond and Wayne County public meetings, with video playback and auto-generated transcripts.  
-  Stack: Python, React, Google Cloud (Firebase: Firestore + Storage), Council Data Project  
-  [richmondmeetings.jordanmakes.dev](https://richmondmeetings.jordanmakes.dev)
-
-- **[Photomosaic](https://github.com/jbax1899/photomosaic)**  
-  Image-to-mosaic converter with clean visuals and a straightforward WinForms UI.  
-  _Stack:_ C#, Windows Forms
-
-- **[DiscordChatAnalyzer](https://github.com/jbax1899/DiscordChatAnalyzer)**  
-  Tool for analyzing Discord logs and metadata at scale.  
-  _Stack:_ C++
+🌐 [jordanmakes.dev](https://www.jordanmakes.dev)
 
 ---
 
-### Teaching
+## Featured Projects
 
-I work as a Supplemental Instructor for my alma mater, helping students grasp core programming concepts (Intro Java). It’s paid, structured peer instruction.
+### [Footnote](https://github.com/footnote-ai/footnote) &nbsp;
+
+> TypeScript · Node.js · React · Discord.js
+
+An AI assistant where every response carries a trace of what shaped it — confidence level, sources, active constraints. Started because an earlier bot I made learned to write like me from my Discord logs, and people couldn't tell the difference. Tone is an easy shortcut to trust, and that felt worth addressing.
+
+Full-stack pnpm monorepo: Node.js backend, Discord bot, React web client. The backend is the single decision point for both surfaces.
+
+→ **[Live demo](https://ai.jordanmakes.dev)** · **[Source](https://github.com/footnote-ai/footnote)**
 
 ---
 
-### Looking for
+### [Richmond Meetings](https://github.com/jbax1899/cdp-richmond-indiana) &nbsp;
 
-I'm seeking entry-level or junior roles where I can:
+> Python · React · Council Data Project
 
-- Contribute to real product features (frontend, backend, or both)
-- Keep learning by working alongside experienced engineers
-- Write code that others can read, run, and rely on
-- Bring a thoughtful approach to development, especially around clarity and user trust
+Richmond and Wayne County public meetings, made searchable. Video playback, auto-generated transcripts, full-text search across years of records. Built on the Council Data Project open infrastructure. Currently working on bringing it to local government as an official tool.
+
+→ **[richmondmeetings.jordanmakes.dev](https://richmondmeetings.jordanmakes.dev)** · **[Source](https://github.com/jbax1899/cdp-richmond-indiana)**
+
+---
+
+### [MediaBox](https://www.jordanmakes.dev/blog/mediabox) &nbsp;
+
+> Raspberry Pi 5 · Linux · Docker · Solar  
+
+A portable offline server in a Pelican case. Plug in locally and you get Wikipedia, ebooks, educational tools, video streaming, and on-device AI — no internet needed. Low power draw, optional solar charging. Aimed at off-grid use and places without reliable internet.
+
+---
+
+## Background
+
+```
+Languages   TypeScript / JS · Java · Python · C# · C++ · SQL
+Tools       Node.js · React · Docker · Fly.io · Linux · GitHub Actions · OpenAI API
+Other       Raspberry Pi, DC electronics, basic RF (SDR)
+```
+
+Supplemental Instructor for CS at Indiana University Online since 2023.
