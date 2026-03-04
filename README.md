@@ -12,9 +12,7 @@ Full-stack developer based in Indiana. I work mostly in TypeScript but I've buil
 
 > TypeScript · Node.js · React · Discord.js
 
-An AI assistant where every response carries a trace of what shaped it — confidence level, sources, active constraints. Started because an earlier bot I made learned to write like me from my Discord logs, and people couldn't tell the difference. Tone is an easy shortcut to trust, and that felt worth addressing.
-
-Full-stack pnpm monorepo: Node.js backend, Discord bot, React web client.
+An AI assistant where every response carries a trace of what shaped it — confidence level, sources, active constraints.
 
 → **[Live demo](https://ai.jordanmakes.dev)** · **[Source](https://github.com/footnote-ai/footnote)**
 
